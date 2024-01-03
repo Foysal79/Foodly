@@ -16,6 +16,7 @@ import { Autoplay, Pagination, Navigation } from 'swiper/modules';
 const Banner = () => {
     return (
         <div>
+          <div>
             <Swiper
         spaceBetween={30}
         centeredSlides={true}
@@ -54,6 +55,8 @@ const Banner = () => {
         
       </Swiper>
             
+        </div>
+        <img className='w-full'  src="https://i.ibb.co/ts1KtRK/wave1.png" alt="" />
         </div>
     );
 };
