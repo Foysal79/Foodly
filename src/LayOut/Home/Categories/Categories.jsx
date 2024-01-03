@@ -27,15 +27,15 @@ const Categories = () => {
           clickable: true,
         }}
         modules={[Pagination]}
-        className="mySwiper"
+        className="mySwiper "
       >
-        <SwiperSlide>Honey</SwiperSlide>
-        <SwiperSlide>Nuts</SwiperSlide>
-        <SwiperSlide>vegetable</SwiperSlide>
-        <SwiperSlide>Oil</SwiperSlide>
-        <SwiperSlide>Fruits</SwiperSlide>
-        <SwiperSlide>Sessional Food</SwiperSlide>
-        <SwiperSlide>Cooking</SwiperSlide>
+        <SwiperSlide className='box' >Honey</SwiperSlide>
+        <SwiperSlide className='box' >Nuts</SwiperSlide>
+        <SwiperSlide className='box' >vegetable</SwiperSlide>
+        <SwiperSlide className='box' >Oil</SwiperSlide>
+        <SwiperSlide className='box' >Fruits</SwiperSlide>
+        <SwiperSlide className='box' >Sessional Food</SwiperSlide>
+        <SwiperSlide className='box' >Cooking</SwiperSlide>
         
       </Swiper>
                 
