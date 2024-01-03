@@ -1,7 +1,7 @@
 
 .bag1 {
 
-    background-image: linear-gradient(to bottom, #035ebb, transparent), url('https://i.ibb.co/mCVP292/slide-2-1920x900.jpg');
+    background-image: linear-gradient(to top, #ffffff, transparent), url('https://i.ibb.co/mCVP292/slide-2-1920x900.jpg');
     background-size: cover;
     background-position: center;
     width: 100%;
@@ -12,6 +12,44 @@
     background-image: url('https://i.ibb.co/gtLtjFX/supermarket-banner-concept-with-ingredients.jpg');
     background-size: cover;
     background-position: center;
+    width: 100%;
+    height: 73vh;
+}
+.bag3 {
+    background-image: url('https://i.ibb.co/NjzykVH/supermarket-banner-concept-with-ingredients-23-2149421171.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 73vh;
+}
+.bag4 {
+    background-image: url('https://i.ibb.co/hFQKWsX/vegetables-with-salt-corn-cob.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 73vh;
+}
+.bag5 {
+    background-image: url('https://i.ibb.co/ZzyMXbX/bottle-detox-water-with-mint-lemon-tropical-monstera-leaves-blue-background-flat-lay-banner-citrus-l.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 73vh;
+}
+.bag6 {
+    background-image: url('https://i.ibb.co/2PTgtSw/fresh-vegetables-white-background-87394-18341.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 73vh;
+}
+.bag7 {
+    background-image: url('https://i.ibb.co/5sHg0cW/fresh-whole-vegetables-white-table-cooking-diet-banner-164357-14897.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
     width: 100%;
     height: 73vh;
 }

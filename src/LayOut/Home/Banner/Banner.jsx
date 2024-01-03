@@ -39,12 +39,19 @@ const Banner = () => {
         <SwiperSlide className='bag3'>
         Slide 3
         </SwiperSlide>
-        <SwiperSlide>Slide 4</SwiperSlide>
-        <SwiperSlide>Slide 5</SwiperSlide>
-        <SwiperSlide>Slide 6</SwiperSlide>
-        <SwiperSlide>Slide 7</SwiperSlide>
-        <SwiperSlide>Slide 8</SwiperSlide>
-        <SwiperSlide>Slide 9</SwiperSlide>
+        <SwiperSlide className='bag4' >
+            Slide 4
+        </SwiperSlide>
+        <SwiperSlide className='bag5' >
+            Slide 5
+        </SwiperSlide>
+        <SwiperSlide className='bag6' >
+            Slide 6
+        </SwiperSlide>
+        <SwiperSlide className='bag7'>
+            Slide 7
+        </SwiperSlide>
+        
       </Swiper>
             
         </div>
